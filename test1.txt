@@ -25,13 +25,14 @@ Furthermore, creativity in problem-solving also involves embracing ambiguity and
 but those willing to explore uncharted territory may stumble upon incredible solutions. Steve Jobs, for example, was known for his visionary approach
  to technology, which combined aesthetics and functionality in ways that were unheard of at the time. His approach led to innovations like the iPhone,
   which not only changed the mobile industry but also influenced how we interact with technology in everyday life. Jobs’ willingness to take risks and
-   think creatively paid off immensely, making Apple one of the most valuable companies in the world.
+   think creatively paid off immensely, making Apple one of the most valuable companies in the world.    
 
 Despite the importance of creativity in problem-solving, it is often overlooked or undervalued. Traditional education systems, for example, frequently 
 prioritize rote learning and standardized testing, which can stifle creativity. Students are often taught to find “the right answer” rather than exploring
  various solutions. This approach discourages experimentation and risk-taking, essential components of creativity. Fortunately, many modern educational
   reforms are now beginning to emphasize project-based learning, which fosters critical thinking and creativity, helping students develop valuable skills
    for real-world problem-solving.
+   something to see here 
 
 Another aspect that often restricts creativity in problem-solving is the fear of failure. When people are afraid to make mistakes, they are less likely to 
 experiment with new ideas. However, failure is a vital part of the creative process. Each failure is an opportunity to learn and improve, bringing us one step 
