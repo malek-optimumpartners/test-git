@@ -12,7 +12,7 @@ At its core, creativity in problem-solving is about finding new perspectives. Wh
   results. For instance, companies facing stiff competition in the market might choose to cut prices to attract more customers, a traditional
    approach that only works in the short term and may eventually erode profit margins. A more creative approach might involve enhancing product
     value, fostering stronger customer relationships, or even innovating entirely new business models. In this way, creativity not only improves
-     results but also creates a lasting competitive edge.
+     results but also creates a lasting competitive edge. 
 
 Creativity in problem-solving is also highly relevant in technology and scientific research. Consider the world of software development, where
  programmers frequently encounter roadblocks. A creative programmer might experiment with a new framework or write code in an unconventional way 
